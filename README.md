@@ -46,6 +46,7 @@ Some important insights that can be generated from this project include:
 - *Top-Chase-Batsman*- Abhishek Sharma emerged as the standout chase batsman, playing a breathtaking knock of 141 runs in just 50 balls in a single innings.
 - *Highest Strike-Rate*- Vaibhav Suryavanshi recorded the highest strike rate in IPL 2025, with an impressive strike rate of 252.
 - *Highest Wicket-Taker*- Prasidh emerged as the highest wicket-taker of the season, claiming 21 wickets.
+- Mitchell Starc recorded the best bowling performance in an innings, taking 6 wickets.
 
 
 
