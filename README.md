@@ -53,6 +53,9 @@ This project helped derive meaningful insights into team and player performance 
 
 ## Author
 **Saransh Goyal**
+**Email**-goyalsaransh61@gmail.com
+**LinkedIn**-WWW.LINKEDIN.COM/IN/SARANSHGOYAL007
+
 
 
 
