@@ -48,6 +48,11 @@ Some important insights that can be generated from this project include:
 - *Highest Wicket-Taker*- Prasidh emerged as the highest wicket-taker of the season, claiming 21 wickets.
 - Mitchell Starc recorded the best bowling performance in an innings, taking 6 wickets.
 
+## Conclusion
+This project helped derive meaningful insights into team and player performance in IPL 2025, while also serving as a valuable learning resource to strengthen practical skills in data cleaning, analysis, and visualization using Python.
+
+## Author
+**Saransh Goyal**
 
 
 
