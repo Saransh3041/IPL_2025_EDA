@@ -52,11 +52,11 @@ Some important insights that can be generated from this project include:
 This project helped derive meaningful insights into team and player performance in IPL 2025, while also serving as a valuable learning resource to strengthen practical skills in data cleaning, analysis, and visualization using Python.
 
 ## Author
--**Saransh Goyal**
--**Email**-goyalsaransh61@gmail.com
--**LinkedIn**-[WWW.LINKEDIN.COM/IN/SARANSHGOYAL007](https://www.linkedin.com/in/saranshgoyal007/)
--**Github**-https://github.com/Saransh3041
 
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
 
 
 
